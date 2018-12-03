@@ -1,0 +1,15 @@
+{
+  "name": "slackbot",
+  "version": "1.0.0",
+  "description": "This is a simple bot for slack which is built using Nodejs.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Nitin Parasa",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "slackbots": "^1.2.0"
+  }
+}
